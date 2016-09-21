@@ -1,6 +1,6 @@
 {
   "name": "app-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "LICENSE.md",
   "description": "Types definitions used in the ARC. Used with Database object mapping.",
   "devDependencies": {
